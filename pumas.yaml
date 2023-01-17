@@ -2,7 +2,11 @@ team: Pumas
 
 manager: Jude
 
+<<<<<<< HEAD
 coach: Shirley
+=======
+coach: Raymond
+>>>>>>> f1ef858 (Edit Pumas)
 
 members:
   - Ezra
